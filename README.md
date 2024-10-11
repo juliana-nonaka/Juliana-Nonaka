@@ -1,9 +1,10 @@
 ### Olá, Mundo! Meu nome é Juliana Nonaka! 👋
 
-🌱 Tenho 25 anos, sou bacharel em Direito e há alguns meses decidi fazer a transição de carreira para a tecnologia;                             
-💻 Atualmente sou aluna da Generation Brasil (Java Full-Stack), aprendendo tudo o que preciso saber para me tornar um desenvolvedora júnior;                       
-😄Pronomes: ela/dela;                    
-💼Você pode fazer uma conexão comigo através do LinkedIn https://www.linkedin.com/in/juliana-nonaka-udvari/
+🌱 Tenho 27 anos, sou bacharel em Direito e há alguns meses decidi fazer a transição de carreira para a tecnologia;                             
+💻 Atualmente curso Análise e Desenvolvimento de Sistemas pela FIAP;
+💻 Cursei o bootcamp da Generation Brasil (Java Full-Stack), aprendendo tudo o que preciso saber para me tornar um desenvolvedora júnior;                       
+😄 Pronomes: ela/dela;                    
+💼 Você pode fazer uma conexão comigo através do LinkedIn https://www.linkedin.com/in/juliana-nonaka-udvari/
 
 <div align="center">
   <a href="https://github.com/juliana-nonaka">
